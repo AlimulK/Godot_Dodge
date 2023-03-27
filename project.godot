@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Dodge"
-run/main_scene="res://Player/player.tscn"
+run/main_scene="res://Main/Main.tscn"
 config/features=PackedStringArray("4.0", "Mobile")
 config/icon="res://icon.svg"
 
